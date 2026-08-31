@@ -47,7 +47,7 @@ Apresente o resultado de forma objetiva e estruturada, contendo:
 Quando apropriado, utilize uma tabela com as colunas:
 
 | Tema | Evidência | Percepção | Possível impacto | Ação sugerida |
-| ---- | --------- | --------- | ---------------- | ------------- |
+|---|---|---|---|---|
 
 ### Restrições
 
